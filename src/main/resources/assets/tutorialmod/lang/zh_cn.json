@@ -1,0 +1,13 @@
+{
+  "item.tutorialmod.peach":"桃子",
+  "item.tutorialmod.golden_peach":"金桃子",
+
+  "item.tutorialmod.emerald_sword":"绿宝石剑",
+  "item.tutorialmod.lapis_lazuli_sword":"青金石剑",
+  "item.tutorialmod.crying_obsidian_sword": "哭泣的黑曜石剑",
+
+  "item.tutorialmod.emerald_pickaxe": "绿宝石镐",
+
+  "itemGroup.tutorial_group": "新工具"
+
+}

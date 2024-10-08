@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": {
+      "item": "tutorialmod:peach"
+    },
+    "S": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "SSS",
+    "SOS",
+    "SSS"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:golden_peach"
+  }
+}

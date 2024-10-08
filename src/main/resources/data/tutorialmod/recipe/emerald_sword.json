@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "pattern": [
+    "S",
+    "S",
+    "A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:emerald_sword"
+  }
+}

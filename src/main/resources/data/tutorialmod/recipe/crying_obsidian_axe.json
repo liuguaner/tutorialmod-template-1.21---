@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "minecraft:stick"
+    },
+    "S": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "pattern": [
+    "SS",
+    "SA",
+    " A"
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:crying_obsidian_axe"
+  }
+}

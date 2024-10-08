@@ -1,0 +1,28 @@
+{
+  "item.tutorialmod.peach":"Peach",
+  "item.tutorialmod.golden_peach":"Golden Peach",
+
+  "item.tutorialmod.emerald_sword":"Emerald Sword",
+  "item.tutorialmod.emerald_pickaxe": "Emerald Pickaxe",
+  "item.tutorialmod.emerald_axe": "Emerald Axe",
+  "item.tutorialmod.emerald_shovel": "Emerald Shovel",
+  "item.tutorialmod.emerald_hoe": "Emerald Hoe",
+
+  "item.tutorialmod.lapis_lazuli_sword":"Lapis Lazuli Sword",
+  "item.tutorialmod.lapis_lazuli_pickaxe":"Lapis Lazuli Pickaxe",
+  "item.tutorialmod.lapis_lazuli_axe":"Lapis Lazuli Axe",
+  "item.tutorialmod.lapis_lazuli_shovel":"Lapis Lazuli Shovel",
+  "item.tutorialmod.lapis_lazuli_hoe":"Lapis Lazuli Hoe",
+
+  "item.tutorialmod.crying_obsidian_sword": "Crying Obsidian Sword",
+  "item.tutorialmod.crying_obsidian_pickaxe": "Crying Obsidian Pickaxe",
+  "item.tutorialmod.holy_crying_obsidian_pickaxe": "Holy Crying Obsidian Pickaxe",
+  "item.tutorialmod.crying_obsidian_axe": "Crying Obsidian Axe",
+  "item.tutorialmod.crying_obsidian_shovel": "Crying Obsidian Shovel",
+  "item.tutorialmod.crying_obsidian_hoe": "Crying Obsidian Hoe",
+
+
+
+  "itemGroup.tutorial_group": "Tutorial Group"
+
+}

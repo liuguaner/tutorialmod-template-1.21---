@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "A": {
+      "item": "tutorialmod:crying_obsidian_pickaxe"
+    },
+    "S": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    " S ",
+    "SAS",
+    " S "
+  ],
+  "result": {
+    "count": 1,
+    "id": "tutorialmod:holy_crying_obsidian_pickaxe"
+  }
+}
